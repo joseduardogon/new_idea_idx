@@ -1,3 +1,6 @@
 opencv-python
 numpy
 scikit-learn
+PyMuPDF
+paddleocr
+paddlepaddle
